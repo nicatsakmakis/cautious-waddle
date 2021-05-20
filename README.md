@@ -11,5 +11,7 @@ This is a practise area for using a repository
   
 ## Authors
 Nica Tsakmakis
+Karen Miller 
+Blair Kelly 
 
   
