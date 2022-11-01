@@ -1,7 +1,7 @@
 
 # Cautious Waddle
 
-This is a practise area for using a repository
+This is a practise area for using a repository more practice for the workshop
 
 
 ## License
